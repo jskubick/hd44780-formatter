@@ -1,0 +1,8 @@
+Classes coming soon
+
+(random temporary notes for me follow... you can mostly ignore them for now)
+
+cd to vrEmuLcd4win project's directory
+
+git submodule add https://github.com/jskubick/hd44780-formatter formatter
+git submodule update --init --recursive
